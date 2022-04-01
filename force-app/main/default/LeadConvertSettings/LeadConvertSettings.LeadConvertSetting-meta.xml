@@ -80,6 +80,10 @@
             <outputField>Alumni_Engagement_Bolt_Install_Request__c</outputField>
         </mappingFields>
         <mappingFields>
+            <inputField>Community_Migration_Accel_Install_Ct__c</inputField>
+            <outputField>Community_Migration_Accel_Install_Ct__c</outputField>
+        </mappingFields>
+        <mappingFields>
             <inputField>Student_Success_Bolt_Demo_Count__c</inputField>
             <outputField>Student_Success_Bolt_Demo_Count__c</outputField>
         </mappingFields>
@@ -98,10 +102,6 @@
         <mappingFields>
             <inputField>Community_Migration_Accel_Install__c</inputField>
             <outputField>Community_Migration_Accel_Install__c</outputField>
-        </mappingFields>
-        <mappingFields>
-            <inputField>Community_Migration_Accel_Install_Ct__c</inputField>
-            <outputField>Community_Migration_Accel_Install_Ct__c</outputField>
         </mappingFields>
         <mappingFields>
             <inputField>Community_Migration_Accelerator_Demo__c</inputField>
@@ -176,6 +176,10 @@
             <outputField>Digital_Storefront_Bolt_Demo__c</outputField>
         </mappingFields>
         <mappingFields>
+            <inputField>Employee_Digital_Workspace_Bolt_Demo__c</inputField>
+            <outputField>Employee_Digital_Workspace_Bolt_Demo__c</outputField>
+        </mappingFields>
+        <mappingFields>
             <inputField>pi__url__c</inputField>
             <outputField>pi__url__c</outputField>
         </mappingFields>
@@ -194,10 +198,6 @@
         <mappingFields>
             <inputField>Email_Validation_Date__c</inputField>
             <outputField>Email_Validation_Date__c</outputField>
-        </mappingFields>
-        <mappingFields>
-            <inputField>Employee_Digital_Workspace_Bolt_Demo__c</inputField>
-            <outputField>Employee_Digital_Workspace_Bolt_Demo__c</outputField>
         </mappingFields>
         <mappingFields>
             <inputField>Employee_Digital_Workspace_Bolt_Demo_C__c</inputField>
@@ -336,6 +336,10 @@
             <outputField>Slideshare_Flow_Demo__c</outputField>
         </mappingFields>
         <mappingFields>
+            <inputField>Jive_Status__c</inputField>
+            <outputField>Jive_Status__c</outputField>
+        </mappingFields>
+        <mappingFields>
             <inputField>Ideas_Install_Request__c</inputField>
             <outputField>Ideas_Install_Request__c</outputField>
         </mappingFields>
@@ -346,10 +350,6 @@
         <mappingFields>
             <inputField>Industry_Type__c</inputField>
             <outputField>Industry_Type__c</outputField>
-        </mappingFields>
-        <mappingFields>
-            <inputField>Jive_Status__c</inputField>
-            <outputField>Jive_Status__c</outputField>
         </mappingFields>
         <mappingFields>
             <inputField>Lead_Qualification_Status__c</inputField>
@@ -440,6 +440,10 @@
             <outputField>Social_Share_Install__c</outputField>
         </mappingFields>
         <mappingFields>
+            <inputField>pi__campaign__c</inputField>
+            <outputField>pi__campaign__c</outputField>
+        </mappingFields>
+        <mappingFields>
             <inputField>Page_Info_Demo_Count__c</inputField>
             <outputField>Page_Info_Demo_Count__c</outputField>
         </mappingFields>
@@ -450,10 +454,6 @@
         <mappingFields>
             <inputField>Page_Info_Install_Count__c</inputField>
             <outputField>Page_Info_Install_Count__c</outputField>
-        </mappingFields>
-        <mappingFields>
-            <inputField>pi__campaign__c</inputField>
-            <outputField>pi__campaign__c</outputField>
         </mappingFields>
         <mappingFields>
             <inputField>pi__comments__c</inputField>
